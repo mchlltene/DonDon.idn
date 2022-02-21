@@ -76,6 +76,7 @@
 }
 #background #page #body .slider ul li.first a {
 	margin:30px 25px;
+	border-color: #563F1F;
 }
 #background #page #body ul#featured li.first {
 	margin-right:10px;
