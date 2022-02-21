@@ -1,2 +1,2 @@
 # DonDon.idn
-Digital Marketing / aA (2022)
+Digital Marketing / A (2022)
